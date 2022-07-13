@@ -19,3 +19,4 @@ The project follows the follow steps:
 4. **Airport Code Table**: This is a simple table of airport codes and corresponding cities. It comes from here.
 
 ## Conceptual Data Model
+![image](https://github.com/JLJL0308/Capstone_Project/blob/main/Fact_Dim_Tables_Diagram.png)
